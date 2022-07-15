@@ -1,37 +1,37 @@
 {
-  "name": "Weeping Angel #850",
+  "name": "Weeping Angel #2151",
   "symbol": "TEARS",
   "description": "This collection's Metaplex collection standard NFT does not have metadata URI. If you have the update authority, you can change the picture/description on this page by updating the collection standard NFT and filling in the right metadata URI.",
   "seller_fee_basis_points": 2000,
-  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://dweb.link/ipfs/QmNsYF6n66kAjiWUJp71iXmC1SaNhe5N5oiq62NWEaRyyA/4279.png",
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://dweb.link/ipfs/QmNsYF6n66kAjiWUJp71iXmC1SaNhe5N5oiq62NWEaRyyA/1282.png",
   "attributes": [
     {
       "trait_type": "Backgrounds",
-      "value": "The Deep Blue"
+      "value": "Moonlit Lake"
     },
     {
       "trait_type": "Wings",
-      "value": "Pixie"
+      "value": "Animatronic"
     },
     {
       "trait_type": "Elements",
-      "value": "Water"
+      "value": "Fire"
     },
     {
       "trait_type": "Clothing",
-      "value": "Knights Armour"
+      "value": "The Kings Armour"
     },
     {
       "trait_type": "Headgear",
-      "value": "Rose"
+      "value": "Crown"
     },
     {
       "trait_type": "Necklace",
-      "value": "Silver Chain"
+      "value": "Gold Chain"
     },
     {
       "trait_type": "Weapon",
-      "value": "Bell"
+      "value": "Eagle Staff"
     }
   ],
   "properties": {
