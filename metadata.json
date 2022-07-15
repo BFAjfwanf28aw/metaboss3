@@ -1,13 +1,13 @@
 {
-  "name": "Weeping Angel #697",
+  "name": "Weeping Angel #850",
   "symbol": "TEARS",
   "description": "This collection's Metaplex collection standard NFT does not have metadata URI. If you have the update authority, you can change the picture/description on this page by updating the collection standard NFT and filling in the right metadata URI.",
   "seller_fee_basis_points": 2000,
-  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://dweb.link/ipfs/QmNsYF6n66kAjiWUJp71iXmC1SaNhe5N5oiq62NWEaRyyA/4108.png",
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://dweb.link/ipfs/QmNsYF6n66kAjiWUJp71iXmC1SaNhe5N5oiq62NWEaRyyA/4279.png",
   "attributes": [
     {
       "trait_type": "Backgrounds",
-      "value": "Moonlit Lake"
+      "value": "The Deep Blue"
     },
     {
       "trait_type": "Wings",
@@ -15,23 +15,23 @@
     },
     {
       "trait_type": "Elements",
-      "value": "Air"
+      "value": "Water"
     },
     {
       "trait_type": "Clothing",
-      "value": "Naked"
+      "value": "Knights Armour"
     },
     {
       "trait_type": "Headgear",
-      "value": "Googely Eyes"
+      "value": "Rose"
     },
     {
       "trait_type": "Necklace",
-      "value": "Naked"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Weapon",
-      "value": "Chain"
+      "value": "Bell"
     }
   ],
   "properties": {
